@@ -1,4 +1,4 @@
-# SimpleLauncher width build.zig
+# SimplePyLauncher with build.zig
 
 PC 目录的代码源自：https://github.com/pypa/distlib/tree/0.3.8/PC
 

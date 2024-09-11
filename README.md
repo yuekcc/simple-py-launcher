@@ -5,7 +5,9 @@ PC 目录的代码源自：https://github.com/pypa/distlib/tree/0.3.8/PC
 ## 构建
 
 ```sh
-zig build --release=small
+$ zig version
+0.13.0-dev.351+64ef45eb0
+$ zig build --release=small
 ```
 
 ## 使用
